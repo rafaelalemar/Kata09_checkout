@@ -2,7 +2,7 @@
 Kata09: Back to the Checkout
 ============================
 Script created for concretesolutions.com.br in order to demonstrate
-the ability of understand the problem and offer a solution
+the ability in understanding the problem and offer a solution
 
 Language: Python 2.6
 By Rafael Vidal | rafaelalemar@gmail.com
